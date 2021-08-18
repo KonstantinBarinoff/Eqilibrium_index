@@ -22,7 +22,7 @@ public class Main {
         int index = summer.sum();
 
         if (index > 0) {
-            System.out.println(" Total quantity equilibrium index = " + index);
-        } else System.out.println("Equilibrium index is missing!!! ");
+            System.out.println(" Общее кол-во индексов равновесия в массиве = " + index);
+        } else System.out.println("Индекс равновесия не найден!!! ");
     }
 }
